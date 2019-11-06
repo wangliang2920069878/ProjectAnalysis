@@ -9,3 +9,6 @@
 * [身份认证和授权(认证)](/article//aspnetcore/Security/Authentication/Core.md)
 * [身份认证和授权(cookie)](/article//aspnetcore/Security/Authentication/Cookies/Cookies.md)
 * [身份认证和授权(JwtBearer)](/article//aspnetcore/Security/Authentication/JwtBearer/JwtBearer.md)
+* [身份认证和授权(OAuth)](/article//aspnetcore/Security/Authentication/OAuth/OAuth.md)
+* [身份认证和授权(OpenIdConnect)](/article//aspnetcore/Security/Authentication/OpenIdConnect/OpenIdConnect.md)
+* [身份认证和授权(授权)](/article//aspnetcore/Security/Authorization/Authorization.md)
