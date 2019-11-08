@@ -12,3 +12,6 @@
 * [身份认证和授权(OAuth)](/article//aspnetcore/Security/Authentication/OAuth/OAuth.md)
 * [身份认证和授权(OpenIdConnect)](/article//aspnetcore/Security/Authentication/OpenIdConnect/OpenIdConnect.md)
 * [身份认证和授权(授权)](/article//aspnetcore/Security/Authorization/Authorization.md)
+* [身份认证和授权(Policy)](/article//aspnetcore/Security/Authorization/Policy/Policy.md)
+
+* [Identity(Core)](/article//aspnetcore/Identity/Core/Core.md)
